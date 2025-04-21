@@ -15,7 +15,7 @@
    - Navigate to the directory where you want to clone the repository.
    - Use the `git clone` command followed by the repository's URL. For example:
      ```bash
-     git clone <repository_URL>
+     git clone https://github.com/gaikwadshri29/Board-Game-.git
      ```
    Replace `<repository_URL>` with the URL of your private repository.
 
